@@ -56,7 +56,7 @@ Getting started with the Random Meme Generator is a breeze:
 Feel free to customize the Random Meme Generator app to match your style and preferences:
 
 - Modify the CSS in the `src/styles` folder to change the app's appearance.
-- Add your favorite memes to the meme library by following the data structure in `src/data/memes.js`.
+- Add your favorite GIFs to the GIF library by following the data structure in `src/data/gif.js`.
 
 ## 🌐 Live Demo
 
