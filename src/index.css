@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background {
+    background-image: url("../public/meme.jpg");  
+    background-size: contain;
+}
+
+.spinner {
+  position: relative;
+}
+
+.spinner::before,
+.spinner::after {
+  content: '';
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.spinner::before {
+  width: 10.7px;
+  height: 10.7px;
+  background: #474bff;
+}
+
+.spinner::after {
+  width: 36px;
+  height: 36px;
+  animation: spinner-y7ej37 1s infinite linear;
+  border: 8.2px solid #474bff;
+  border-left-color: transparent;
+  border-right-color: transparent;
+}
+
+@keyframes spinner-y7ej37 {
+  to {
+     transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
