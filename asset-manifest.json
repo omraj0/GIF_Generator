@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GIF_Generator/static/css/main.e4d6bb42.css",
+    "main.js": "/GIF_Generator/static/js/main.91ab9b9b.js",
+    "static/media/meme.jpg": "/GIF_Generator/static/media/meme.8c4814dfca07bc88b760.jpg",
+    "index.html": "/GIF_Generator/index.html",
+    "main.e4d6bb42.css.map": "/GIF_Generator/static/css/main.e4d6bb42.css.map",
+    "main.91ab9b9b.js.map": "/GIF_Generator/static/js/main.91ab9b9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d6bb42.css",
+    "static/js/main.91ab9b9b.js"
+  ]
+}
