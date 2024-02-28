@@ -2,7 +2,7 @@
 
 Welcome to the Random GIF Generator app! This dynamic React application brings humor to your fingertips, allowing you to generate hilarious GIFs or memes in two exciting ways. 🎉
 
-![Demo](Image.png)
+[Demo](Image.png)
 
 ## 📋 Features
 
