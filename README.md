@@ -4,7 +4,7 @@ Welcome to the Random GIF Generator app! This dynamic React application brings h
 
 ## 🌐 Click on the Image 
 
-<a href="https://omraj0.github.io/Weather-App/">![Demo](Image.png)</a>
+<a href="https://omraj0.github.io/GIF_Generator/">![Demo](Image.png)</a>
 
 ## 📋 Features
 
